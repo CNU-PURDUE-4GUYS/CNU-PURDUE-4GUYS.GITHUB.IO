@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "미국 도착"
+title:  "DohyeonKo - 미국 도착"
 date:   2022-01-18 10:00:00 -0500
 categories: 일기 꿀팁 음식 DohyeonKo
 ---

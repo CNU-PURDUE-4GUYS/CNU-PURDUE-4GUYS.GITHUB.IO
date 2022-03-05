@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DohyeonKo - 적응 완료"
+title:  "DohyeonKo - 김치가 그립습니다"
 date:   2022-03-01 09:00:00 -0500
 categories: 일기 DohyeonKo
 ---
